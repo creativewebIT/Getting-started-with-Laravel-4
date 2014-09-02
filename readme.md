@@ -7,7 +7,7 @@ Source files for the Tuts+ course: [Getting Started with Laravel 4](https://cour
 
 **Available on Tuts+ September, 2014**
 
-### Using these Source Files
+### Using These Source Files
 **Every commit is a lesson**
 
 You will find the source code for the different lessons by running through the commits in the Master branch. The only exception to this rule is Lesson 3, for which the source code is in the L3 branch.
