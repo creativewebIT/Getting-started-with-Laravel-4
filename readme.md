@@ -1,16 +1,20 @@
-## Getting started with Laravel 4
+## Tuts+ Course: Getting Started with Laravel 4
+**Instructor: Joost Van Veen**
 
-### Your Tuts+ instructor: Joost van Veen
+It is no exaggeration to say that Laravel has taken the PHP community by storm. If you're ready to start learning Laravel, this course will cover all the basics to get you ready to go. Topics covered include routing, controllers, models, views, the blade templating engine, eloquent, authentication, resources, validation and then some. To complete this course, you'll build a hands-on project that'll put all the skills you've learned into practice.
 
-Getting started with Laravel4 is a Tuts+ course on, well... Laravel essentials. In this repository, you'll find the source code for this course.
+Source files for the Tuts+ course: [Getting Started with Laravel 4](https://courses.tutsplus.com/courses/)
 
-## Every commit is a lesson
+**Available on Tuts+ September, 2014**
+
+### Using these Source Files
+**Every commit is a lesson**
 
 You will find the source code for the different lessons by running through the commits in the Master branch. The only exception to this rule is Lesson 3, for which the source code is in the L3 branch.
 
 Don't forget to run Composer install after cloning this repository to your local machine.
 
-## Course contents
+**Course contents**
 
 * Lesson 21 - Conclusion And Resources
 * Lesson 20 - Creating the front-end
