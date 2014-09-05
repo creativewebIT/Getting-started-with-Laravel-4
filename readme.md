@@ -3,9 +3,8 @@
 
 It is no exaggeration to say that Laravel has taken the PHP community by storm. If you're ready to start learning Laravel, this course will cover all the basics to get you ready to go. Topics covered include routing, controllers, models, views, the blade templating engine, eloquent, authentication, resources, validation and then some. To complete this course, you'll build a hands-on project that'll put all the skills you've learned into practice.
 
-Source files for the Tuts+ course: [Getting Started with Laravel 4](https://courses.tutsplus.com/courses/)
+Source files for the Tuts+ course: [Getting Started with Laravel 4](https://code.tutsplus.com/courses/getting-started-with-laravel-4)
 
-**Available on Tuts+ September, 2014**
 
 ### Using These Source Files
 **Every commit is a lesson**
